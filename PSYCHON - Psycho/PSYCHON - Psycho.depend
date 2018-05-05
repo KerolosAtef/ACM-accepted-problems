@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488828726 source:c:\users\mina\desktop\psychon - psycho\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

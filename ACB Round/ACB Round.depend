@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507798211 source:c:\users\keroa\desktop\acb round\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

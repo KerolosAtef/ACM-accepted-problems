@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517005549 source:c:\users\koko\desktop\area\main.cpp
+	<iostream>
+	<iomanip>
+

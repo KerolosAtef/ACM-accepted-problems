@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478215635 source:c:\users\mina\desktop\line to cashier\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

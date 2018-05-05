@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480454584 source:c:\users\mina\desktop\number of digits\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

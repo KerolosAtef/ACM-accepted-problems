@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489191074 source:c:\users\mina\desktop\prime word\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

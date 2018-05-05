@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="1.7">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Mina"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="5/9/2016 12:57:09 AM"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="m" type="Integer" array="False" size="" variables="m"/>
+            <declare name="n" type="Integer" array="False" size="" variables="n"/>
+            <declare name="a" type="Integer" array="False" size="" variables="a"/>
+            <declare name="x" type="Integer" array="False" size="" variables="x"/>
+            <declare name="y" type="Integer" array="False" size="" variables="y"/>
+            <declare name="z" type="Integer" array="False" size="" variables="z"/>
+            <input variable="n"/>
+            <input variable="m"/>
+            <input variable="a"/>
+            <if expression="n%a==0">
+                <then>
+                    <assign variable="x" expression="n/a"/>
+                </then>
+                <else>
+                    <assign variable="x" expression="(n/a)+1"/>
+                </else>
+            </if>
+            <if expression="m%a== 0">
+                <then>
+                    <assign variable="y" expression="m/a"/>
+                </then>
+                <else>
+                    <assign variable="y" expression="(m/a)+1"/>
+                </else>
+            </if>
+            <assign variable="z" expression="x*y"/>
+            <output expression="z"/>
+        </body>
+    </function>
+</flowgorithm>

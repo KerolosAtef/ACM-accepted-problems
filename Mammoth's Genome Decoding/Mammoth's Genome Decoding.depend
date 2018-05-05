@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486433862 source:c:\users\mina\desktop\mammoth's genome decoding\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

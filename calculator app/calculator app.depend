@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489620713 source:c:\users\mina\desktop\calculator app\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

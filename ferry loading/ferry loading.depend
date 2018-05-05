@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489065876 source:c:\users\mina\desktop\ferry loading\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485003081 source:c:\users\mina\desktop\nearly lucky number\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

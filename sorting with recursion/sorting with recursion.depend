@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1480307367 source:c:\users\mina\desktop\sorting with recursion\main.cpp
+	<iostream>
+
+1481054249 source:e:\my work\c++\projects\sorting with recursion\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

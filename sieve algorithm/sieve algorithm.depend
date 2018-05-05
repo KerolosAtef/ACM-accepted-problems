@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488418135 source:c:\users\mina\desktop\sieve algorithm\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1488418824 source:f:\my work\c++\projects\sieve algorithm\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

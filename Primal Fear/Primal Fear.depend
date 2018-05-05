@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489083916 source:c:\users\mina\desktop\primal fear\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

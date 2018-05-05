@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491073447 source:c:\users\mina\desktop\ magic powder\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

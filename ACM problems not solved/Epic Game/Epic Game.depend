@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481660415 source:c:\users\mina\desktop\epic game\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

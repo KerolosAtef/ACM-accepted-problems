@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488553595 source:c:\users\mina\desktop\prime matrix\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

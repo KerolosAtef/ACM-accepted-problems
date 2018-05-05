@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475792953 source:c:\users\mina\desktop\playing with dice\main.cpp
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481810481 source:c:\users\mina\desktop\free cash\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489841781 source:c:\users\mina\desktop\scanf and printf\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

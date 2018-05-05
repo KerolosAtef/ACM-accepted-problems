@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470233125 source:c:\users\mina\desktop\matrix\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

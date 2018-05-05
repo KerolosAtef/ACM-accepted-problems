@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481329832 source:c:\users\mina\desktop\moore's law\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

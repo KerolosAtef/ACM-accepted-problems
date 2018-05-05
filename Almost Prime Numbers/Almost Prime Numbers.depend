@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489230737 source:c:\users\mina\desktop\almost prime numbers\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

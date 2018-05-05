@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489283586 source:c:\users\mina\desktop\design tutorial\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

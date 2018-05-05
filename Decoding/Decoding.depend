@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485790563 source:c:\users\mina\desktop\decoding\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

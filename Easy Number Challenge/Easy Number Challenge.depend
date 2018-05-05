@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489098041 source:c:\users\mina\desktop\easy number challenge\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	<bits/stdc++.h>
+

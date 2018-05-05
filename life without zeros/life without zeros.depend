@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476830433 source:c:\users\mina\desktop\life without zeros\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+

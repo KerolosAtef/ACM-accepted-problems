@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1460919665 source:d:\c++\projects\challenge1\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+

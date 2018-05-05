@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491066090 source:c:\users\mina\desktop\magic powder brute force\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
